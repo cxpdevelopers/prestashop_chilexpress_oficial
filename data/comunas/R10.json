@@ -1,0 +1,167 @@
+{
+  "coverageAreas": [{
+    "countyCode": "ACHA",
+    "countyName": "QUINCHAO",
+    "regionCode": "R10",
+    "ineCountyCode": 550,
+    "queryMode": 1,
+    "coverageName": "ACHAO"
+  }, {
+    "countyCode": "ANCU",
+    "countyName": "ANCUD",
+    "regionCode": "R10",
+    "ineCountyCode": 546,
+    "queryMode": 1,
+    "coverageName": "ANCUD"
+  }, {
+    "countyCode": "CALB",
+    "countyName": "CALBUCO",
+    "regionCode": "R10",
+    "ineCountyCode": 538,
+    "queryMode": 1,
+    "coverageName": "CALBUCO"
+  }, {
+    "countyCode": "CAST",
+    "countyName": "CASTRO",
+    "regionCode": "R10",
+    "ineCountyCode": 545,
+    "queryMode": 1,
+    "coverageName": "CASTRO"
+  }, {
+    "countyCode": "CHAI",
+    "countyName": "CHAITEN",
+    "regionCode": "R10",
+    "ineCountyCode": 560,
+    "queryMode": 1,
+    "coverageName": "CHAITEN"
+  }, {
+    "countyCode": "CHON",
+    "countyName": "CHONCHI",
+    "regionCode": "R10",
+    "ineCountyCode": 552,
+    "queryMode": 1,
+    "coverageName": "CHONCHI"
+  }, {
+    "countyCode": "DALC",
+    "countyName": "DALCAHUE",
+    "regionCode": "R10",
+    "ineCountyCode": 548,
+    "queryMode": 1,
+    "coverageName": "DALCAHUE"
+  }, {
+    "countyCode": "FRES",
+    "countyName": "FRESIA",
+    "regionCode": "R10",
+    "ineCountyCode": 541,
+    "queryMode": 1,
+    "coverageName": "FRESIA"
+  }, {
+    "countyCode": "FRUT",
+    "countyName": "FRUTILLAR",
+    "regionCode": "R10",
+    "ineCountyCode": 543,
+    "queryMode": 1,
+    "coverageName": "FRUTILLAR"
+  }, {
+    "countyCode": "HORP",
+    "countyName": "HUALAIHUE",
+    "regionCode": "R10",
+    "ineCountyCode": 561,
+    "queryMode": 1,
+    "coverageName": "HORNOPIREN"
+  }, {
+    "countyCode": "LLAN",
+    "countyName": "LLANQUIHUE",
+    "regionCode": "R10",
+    "ineCountyCode": 542,
+    "queryMode": 1,
+    "coverageName": "LLANQUIHUE"
+  }, {
+    "countyCode": "LMUE",
+    "countyName": "LOS MUERMOS",
+    "regionCode": "R10",
+    "ineCountyCode": 540,
+    "queryMode": 1,
+    "coverageName": "LOS MUERMOS"
+  }, {
+    "countyCode": "MAUL",
+    "countyName": "MAULLIN",
+    "regionCode": "R10",
+    "ineCountyCode": 539,
+    "queryMode": 1,
+    "coverageName": "MAULLIN"
+  }, {
+    "countyCode": "OSOR",
+    "countyName": "OSORNO",
+    "regionCode": "R10",
+    "ineCountyCode": 525,
+    "queryMode": 1,
+    "coverageName": "OSORNO"
+  }, {
+    "countyCode": "PMON",
+    "countyName": "PUERTO MONTT",
+    "regionCode": "R10",
+    "ineCountyCode": 535,
+    "queryMode": 1,
+    "coverageName": "PUERTO MONTT"
+  }, {
+    "countyCode": "POCT",
+    "countyName": "PUERTO OCTAY",
+    "regionCode": "R10",
+    "ineCountyCode": 528,
+    "queryMode": 1,
+    "coverageName": "PUERTO OCTAY"
+  }, {
+    "countyCode": "PVAR",
+    "countyName": "PUERTO VARAS",
+    "regionCode": "R10",
+    "ineCountyCode": 536,
+    "queryMode": 1,
+    "coverageName": "PUERTO VARAS"
+  }, {
+    "countyCode": "PURR",
+    "countyName": "PURRANQUE",
+    "regionCode": "R10",
+    "ineCountyCode": 529,
+    "queryMode": 1,
+    "coverageName": "PURRANQUE"
+  }, {
+    "countyCode": "PUYG",
+    "countyName": "PUYEHUE",
+    "regionCode": "R10",
+    "ineCountyCode": 527,
+    "queryMode": 1,
+    "coverageName": "PUYEHUE"
+  }, {
+    "countyCode": "QUEL",
+    "countyName": "QUELLON",
+    "regionCode": "R10",
+    "ineCountyCode": 554,
+    "queryMode": 1,
+    "coverageName": "QUELLON"
+  }, {
+    "countyCode": "QUEM",
+    "countyName": "QUEMCHI",
+    "regionCode": "R10",
+    "ineCountyCode": 547,
+    "queryMode": 1,
+    "coverageName": "QUEMCHI"
+  }, {
+    "countyCode": "RNEG",
+    "countyName": "RIO NEGRO",
+    "regionCode": "R10",
+    "ineCountyCode": 530,
+    "queryMode": 1,
+    "coverageName": "RIO NEGRO"
+  }, {
+    "countyCode": "SPAB",
+    "countyName": "SAN PABLO",
+    "regionCode": "R10",
+    "ineCountyCode": 526,
+    "queryMode": 1,
+    "coverageName": "SAN PABLO"
+  }],
+  "statusCode": 0,
+  "statusDescription": "Extraccion exitosa",
+  "errors": null
+}

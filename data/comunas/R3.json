@@ -1,0 +1,62 @@
+{
+  "coverageAreas": [{
+    "countyCode": "CALD",
+    "countyName": "CALDERA",
+    "regionCode": "R3",
+    "ineCountyCode": 241,
+    "queryMode": 1,
+    "coverageName": "CALDERA"
+  }, {
+    "countyCode": "CHAN",
+    "countyName": "CHANARAL",
+    "regionCode": "R3",
+    "ineCountyCode": 235,
+    "queryMode": 1,
+    "coverageName": "CHANARAL"
+  }, {
+    "countyCode": "COPI",
+    "countyName": "COPIAPO",
+    "regionCode": "R3",
+    "ineCountyCode": 240,
+    "queryMode": 1,
+    "coverageName": "COPIAPO"
+  }, {
+    "countyCode": "DIEG",
+    "countyName": "DIEGO DE ALMAGRO",
+    "regionCode": "R3",
+    "ineCountyCode": 236,
+    "queryMode": 1,
+    "coverageName": "DIEGO DE ALMAGRO"
+  }, {
+    "countyCode": "FREI",
+    "countyName": "FREIRINA",
+    "regionCode": "R3",
+    "ineCountyCode": 246,
+    "queryMode": 1,
+    "coverageName": "FREIRINA"
+  }, {
+    "countyCode": "HUAS",
+    "countyName": "HUASCO",
+    "regionCode": "R3",
+    "ineCountyCode": 247,
+    "queryMode": 1,
+    "coverageName": "HUASCO"
+  }, {
+    "countyCode": "TAMA",
+    "countyName": "TIERRA AMARILLA",
+    "regionCode": "R3",
+    "ineCountyCode": 242,
+    "queryMode": 1,
+    "coverageName": "TIERRA AMARILLA"
+  }, {
+    "countyCode": "VALL",
+    "countyName": "VALLENAR",
+    "regionCode": "R3",
+    "ineCountyCode": 245,
+    "queryMode": 1,
+    "coverageName": "VALLENAR"
+  }],
+  "statusCode": 0,
+  "statusDescription": "Extraccion exitosa",
+  "errors": null
+}

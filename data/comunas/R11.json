@@ -1,0 +1,41 @@
+{
+  "coverageAreas": [{
+    "countyCode": "CHCH",
+    "countyName": "CHILE CHICO",
+    "regionCode": "R11",
+    "ineCountyCode": 575,
+    "queryMode": 1,
+    "coverageName": "CHILE CHICO"
+  }, {
+    "countyCode": "COCH",
+    "countyName": "COCHRANE",
+    "regionCode": "R11",
+    "ineCountyCode": 580,
+    "queryMode": 1,
+    "coverageName": "COCHRANE"
+  }, {
+    "countyCode": "COYH",
+    "countyName": "COYHAIQUE",
+    "regionCode": "R11",
+    "ineCountyCode": 565,
+    "queryMode": 1,
+    "coverageName": "COYHAIQUE"
+  }, {
+    "countyCode": "PAYS",
+    "countyName": "AISEN",
+    "regionCode": "R11",
+    "ineCountyCode": 570,
+    "queryMode": 1,
+    "coverageName": "PUERTO AYSEN"
+  }, {
+    "countyCode": "PCIS",
+    "countyName": "CISNES",
+    "regionCode": "R11",
+    "ineCountyCode": 571,
+    "queryMode": 1,
+    "coverageName": "PUERTO CISNES"
+  }],
+  "statusCode": 0,
+  "statusDescription": "Extraccion exitosa",
+  "errors": null
+}

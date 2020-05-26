@@ -1,0 +1,111 @@
+{
+  "coverageAreas": [{
+    "countyCode": "CAUQ",
+    "countyName": "CAUQUENES",
+    "regionCode": "R7",
+    "ineCountyCode": 410,
+    "queryMode": 1,
+    "coverageName": "CAUQUENES"
+  }, {
+    "countyCode": "COLB",
+    "countyName": "COLBUN",
+    "regionCode": "R7",
+    "ineCountyCode": 402,
+    "queryMode": 1,
+    "coverageName": "COLBUN"
+  }, {
+    "countyCode": "CONS",
+    "countyName": "CONSTITUCION",
+    "regionCode": "R7",
+    "ineCountyCode": 397,
+    "queryMode": 1,
+    "coverageName": "CONSTITUCION"
+  }, {
+    "countyCode": "CURI",
+    "countyName": "CURICO",
+    "regionCode": "R7",
+    "ineCountyCode": 380,
+    "queryMode": 1,
+    "coverageName": "CURICO"
+  }, {
+    "countyCode": "HUAL",
+    "countyName": "HUALANE",
+    "regionCode": "R7",
+    "ineCountyCode": 385,
+    "queryMode": 1,
+    "coverageName": "HUALANE"
+  }, {
+    "countyCode": "LINA",
+    "countyName": "LINARES",
+    "regionCode": "R7",
+    "ineCountyCode": 400,
+    "queryMode": 1,
+    "coverageName": "LINARES"
+  }, {
+    "countyCode": "LONG",
+    "countyName": "LONGAVI",
+    "regionCode": "R7",
+    "ineCountyCode": 403,
+    "queryMode": 1,
+    "coverageName": "LONGAVI"
+  }, {
+    "countyCode": "MOLI",
+    "countyName": "MOLINA",
+    "regionCode": "R7",
+    "ineCountyCode": 383,
+    "queryMode": 1,
+    "coverageName": "MOLINA"
+  }, {
+    "countyCode": "PARR",
+    "countyName": "PARRAL",
+    "regionCode": "R7",
+    "ineCountyCode": 404,
+    "queryMode": 1,
+    "coverageName": "PARRAL"
+  }, {
+    "countyCode": "ROME",
+    "countyName": "ROMERAL",
+    "regionCode": "R7",
+    "ineCountyCode": 382,
+    "queryMode": 1,
+    "coverageName": "ROMERAL"
+  }, {
+    "countyCode": "SCLE",
+    "countyName": "SAN CLEMENTE",
+    "regionCode": "R7",
+    "ineCountyCode": 393,
+    "queryMode": 1,
+    "coverageName": "SAN CLEMENTE"
+  }, {
+    "countyCode": "SJAV",
+    "countyName": "SAN JAVIER",
+    "regionCode": "R7",
+    "ineCountyCode": 407,
+    "queryMode": 1,
+    "coverageName": "SAN JAVIER"
+  }, {
+    "countyCode": "TALC",
+    "countyName": "TALCA",
+    "regionCode": "R7",
+    "ineCountyCode": 390,
+    "queryMode": 1,
+    "coverageName": "TALCA"
+  }, {
+    "countyCode": "TENO",
+    "countyName": "TENO",
+    "regionCode": "R7",
+    "ineCountyCode": 381,
+    "queryMode": 1,
+    "coverageName": "TENO"
+  }, {
+    "countyCode": "VALG",
+    "countyName": "VILLA ALEGRE",
+    "regionCode": "R7",
+    "ineCountyCode": 406,
+    "queryMode": 1,
+    "coverageName": "VILLA ALEGRE"
+  }],
+  "statusCode": 0,
+  "statusDescription": "Extraccion exitosa",
+  "errors": null
+}

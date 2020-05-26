@@ -1,0 +1,76 @@
+{
+  "coverageAreas": [{
+    "countyCode": "FUTR",
+    "countyName": "FUTRONO",
+    "regionCode": "R14",
+    "ineCountyCode": 514,
+    "queryMode": 1,
+    "coverageName": "FUTRONO"
+  }, {
+    "countyCode": "LAUN",
+    "countyName": "LA UNION",
+    "regionCode": "R14",
+    "ineCountyCode": 518,
+    "queryMode": 1,
+    "coverageName": "LA UNION"
+  }, {
+    "countyCode": "LRAN",
+    "countyName": "LAGO RANCO",
+    "regionCode": "R14",
+    "ineCountyCode": 521,
+    "queryMode": 1,
+    "coverageName": "LAGO RANCO"
+  }, {
+    "countyCode": "LANC",
+    "countyName": "LANCO",
+    "regionCode": "R14",
+    "ineCountyCode": 512,
+    "queryMode": 1,
+    "coverageName": "LANCO"
+  }, {
+    "countyCode": "LLAG",
+    "countyName": "LOS LAGOS",
+    "regionCode": "R14",
+    "ineCountyCode": 513,
+    "queryMode": 1,
+    "coverageName": "LOS LAGOS"
+  }, {
+    "countyCode": "MRQN",
+    "countyName": "MARIQUINA",
+    "regionCode": "R14",
+    "ineCountyCode": 511,
+    "queryMode": 1,
+    "coverageName": "MARIQUINA"
+  }, {
+    "countyCode": "PAIL",
+    "countyName": "PAILLACO",
+    "regionCode": "R14",
+    "ineCountyCode": 519,
+    "queryMode": 1,
+    "coverageName": "PAILLACO"
+  }, {
+    "countyCode": "PANG",
+    "countyName": "PANGUIPULLI",
+    "regionCode": "R14",
+    "ineCountyCode": 517,
+    "queryMode": 1,
+    "coverageName": "PANGUIPULLI"
+  }, {
+    "countyCode": "RIOB",
+    "countyName": "RIO BUENO",
+    "regionCode": "R14",
+    "ineCountyCode": 520,
+    "queryMode": 1,
+    "coverageName": "RIO BUENO"
+  }, {
+    "countyCode": "VALD",
+    "countyName": "VALDIVIA",
+    "regionCode": "R14",
+    "ineCountyCode": 510,
+    "queryMode": 1,
+    "coverageName": "VALDIVIA"
+  }],
+  "statusCode": 0,
+  "statusDescription": "Extraccion exitosa",
+  "errors": null
+}

@@ -1,0 +1,83 @@
+{
+  "coverageAreas": [{
+    "countyCode": "ANDA",
+    "countyName": "ANDACOLLO",
+    "regionCode": "R4",
+    "ineCountyCode": 253,
+    "queryMode": 1,
+    "coverageName": "ANDACOLLO"
+  }, {
+    "countyCode": "COMB",
+    "countyName": "COMBARBALA",
+    "regionCode": "R4",
+    "ineCountyCode": 263,
+    "queryMode": 1,
+    "coverageName": "COMBARBALA"
+  }, {
+    "countyCode": "COQU",
+    "countyName": "COQUIMBO",
+    "regionCode": "R4",
+    "ineCountyCode": 252,
+    "queryMode": 1,
+    "coverageName": "COQUIMBO"
+  }, {
+    "countyCode": "ILLA",
+    "countyName": "ILLAPEL",
+    "regionCode": "R4",
+    "ineCountyCode": 270,
+    "queryMode": 1,
+    "coverageName": "ILLAPEL"
+  }, {
+    "countyCode": "LASE",
+    "countyName": "LA SERENA",
+    "regionCode": "R4",
+    "ineCountyCode": 250,
+    "queryMode": 1,
+    "coverageName": "LA SERENA"
+  }, {
+    "countyCode": "LVIL",
+    "countyName": "LOS VILOS",
+    "regionCode": "R4",
+    "ineCountyCode": 272,
+    "queryMode": 1,
+    "coverageName": "LOS VILOS"
+  }, {
+    "countyCode": "MOPA",
+    "countyName": "MONTE PATRIA",
+    "regionCode": "R4",
+    "ineCountyCode": 262,
+    "queryMode": 1,
+    "coverageName": "MONTE PATRIA"
+  }, {
+    "countyCode": "OVAL",
+    "countyName": "OVALLE",
+    "regionCode": "R4",
+    "ineCountyCode": 260,
+    "queryMode": 1,
+    "coverageName": "OVALLE"
+  }, {
+    "countyCode": "PUNI",
+    "countyName": "PUNITAQUI",
+    "regionCode": "R4",
+    "ineCountyCode": 264,
+    "queryMode": 1,
+    "coverageName": "PUNITAQUI"
+  }, {
+    "countyCode": "SALA",
+    "countyName": "SALAMANCA",
+    "regionCode": "R4",
+    "ineCountyCode": 271,
+    "queryMode": 1,
+    "coverageName": "SALAMANCA"
+  }, {
+    "countyCode": "VICU",
+    "countyName": "VICUNA",
+    "regionCode": "R4",
+    "ineCountyCode": 254,
+    "queryMode": 1,
+    "coverageName": "VICUNA"
+  }],
+  "statusCode": 0,
+  "statusDescription": "Extraccion exitosa",
+  "errors": null
+}

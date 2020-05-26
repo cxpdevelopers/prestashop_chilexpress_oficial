@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS `PREFIX_chilexpress_oficial_ordermeta`;

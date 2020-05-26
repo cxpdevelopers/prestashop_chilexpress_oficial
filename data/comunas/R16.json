@@ -1,0 +1,97 @@
+{
+  "coverageAreas": [{
+    "countyCode": "BULN",
+    "countyName": "BULNES",
+    "regionCode": "R16",
+    "ineCountyCode": 425,
+    "queryMode": 1,
+    "coverageName": "BULNES"
+  }, {
+    "countyCode": "CHIL",
+    "countyName": "CHILLAN",
+    "regionCode": "R16",
+    "ineCountyCode": 415,
+    "queryMode": 1,
+    "coverageName": "CHILLAN"
+  }, {
+    "countyCode": "CHVJ",
+    "countyName": "CHILLAN VIEJO",
+    "regionCode": "R16",
+    "ineCountyCode": 435,
+    "queryMode": 1,
+    "coverageName": "CHILLAN VIEJO"
+  }, {
+    "countyCode": "COEL",
+    "countyName": "COELEMU",
+    "regionCode": "R16",
+    "ineCountyCode": 429,
+    "queryMode": 1,
+    "coverageName": "COELEMU"
+  }, {
+    "countyCode": "COIC",
+    "countyName": "COIHUECO",
+    "regionCode": "R16",
+    "ineCountyCode": 419,
+    "queryMode": 1,
+    "coverageName": "COIHUECO"
+  }, {
+    "countyCode": "ECAR",
+    "countyName": "EL CARMEN",
+    "regionCode": "R16",
+    "ineCountyCode": 422,
+    "queryMode": 1,
+    "coverageName": "EL CARMEN"
+  }, {
+    "countyCode": "PEMU",
+    "countyName": "PEMUCO",
+    "regionCode": "R16",
+    "ineCountyCode": 424,
+    "queryMode": 1,
+    "coverageName": "PEMUCO"
+  }, {
+    "countyCode": "PINT",
+    "countyName": "PINTO",
+    "regionCode": "R16",
+    "ineCountyCode": 420,
+    "queryMode": 1,
+    "coverageName": "PINTO"
+  }, {
+    "countyCode": "QULL",
+    "countyName": "QUILLON",
+    "regionCode": "R16",
+    "ineCountyCode": 426,
+    "queryMode": 1,
+    "coverageName": "QUILLON"
+  }, {
+    "countyCode": "QUIR",
+    "countyName": "QUIRIHUE",
+    "regionCode": "R16",
+    "ineCountyCode": 432,
+    "queryMode": 1,
+    "coverageName": "QUIRIHUE"
+  }, {
+    "countyCode": "SCAR",
+    "countyName": "SAN CARLOS",
+    "regionCode": "R16",
+    "ineCountyCode": 416,
+    "queryMode": 1,
+    "coverageName": "SAN CARLOS"
+  }, {
+    "countyCode": "SIGN",
+    "countyName": "SAN IGNACIO",
+    "regionCode": "R16",
+    "ineCountyCode": 421,
+    "queryMode": 1,
+    "coverageName": "SAN IGNACIO"
+  }, {
+    "countyCode": "YUNG",
+    "countyName": "YUNGAY",
+    "regionCode": "R16",
+    "ineCountyCode": 423,
+    "queryMode": 1,
+    "coverageName": "YUNGAY"
+  }],
+  "statusCode": 0,
+  "statusDescription": "Extraccion exitosa",
+  "errors": null
+}

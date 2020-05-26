@@ -1,0 +1,188 @@
+{
+  "coverageAreas": [{
+    "countyCode": "ALGA",
+    "countyName": "ALGARROBO",
+    "regionCode": "R5",
+    "ineCountyCode": 324,
+    "queryMode": 1,
+    "coverageName": "ALGARROBO"
+  }, {
+    "countyCode": "CART",
+    "countyName": "CARTAGENA",
+    "regionCode": "R5",
+    "ineCountyCode": 321,
+    "queryMode": 1,
+    "coverageName": "CARTAGENA"
+  }, {
+    "countyCode": "CASA",
+    "countyName": "CASABLANCA",
+    "regionCode": "R5",
+    "ineCountyCode": 316,
+    "queryMode": 1,
+    "coverageName": "CASABLANCA"
+  }, {
+    "countyCode": "CCON",
+    "countyName": "CONCON",
+    "regionCode": "R5",
+    "ineCountyCode": 318,
+    "queryMode": 1,
+    "coverageName": "CONCON"
+  }, {
+    "countyCode": "QSCO",
+    "countyName": "EL QUISCO",
+    "regionCode": "R5",
+    "ineCountyCode": 323,
+    "queryMode": 1,
+    "coverageName": "EL QUISCO"
+  }, {
+    "countyCode": "TABO",
+    "countyName": "EL TABO",
+    "regionCode": "R5",
+    "ineCountyCode": 322,
+    "queryMode": 1,
+    "coverageName": "EL TABO"
+  }, {
+    "countyCode": "HIJU",
+    "countyName": "HIJUELAS",
+    "regionCode": "R5",
+    "ineCountyCode": 304,
+    "queryMode": 1,
+    "coverageName": "HIJUELAS"
+  }, {
+    "countyCode": "LACA",
+    "countyName": "LA CALERA",
+    "regionCode": "R5",
+    "ineCountyCode": 302,
+    "queryMode": 1,
+    "coverageName": "LA CALERA"
+  }, {
+    "countyCode": "LACR",
+    "countyName": "LA CRUZ",
+    "regionCode": "R5",
+    "ineCountyCode": 301,
+    "queryMode": 1,
+    "coverageName": "LA CRUZ"
+  }, {
+    "countyCode": "LALI",
+    "countyName": "LA LIGUA",
+    "regionCode": "R5",
+    "ineCountyCode": 275,
+    "queryMode": 1,
+    "coverageName": "LA LIGUA"
+  }, {
+    "countyCode": "LIMA",
+    "countyName": "LIMACHE",
+    "regionCode": "R5",
+    "ineCountyCode": 305,
+    "queryMode": 1,
+    "coverageName": "LIMACHE"
+  }, {
+    "countyCode": "LLAY",
+    "countyName": "LLAY LLAY",
+    "regionCode": "R5",
+    "ineCountyCode": 294,
+    "queryMode": 1,
+    "coverageName": "LLAY LLAY"
+  }, {
+    "countyCode": "LAND",
+    "countyName": "LOS ANDES",
+    "regionCode": "R5",
+    "ineCountyCode": 285,
+    "queryMode": 1,
+    "coverageName": "LOS ANDES"
+  }, {
+    "countyCode": "NOGA",
+    "countyName": "NOGALES",
+    "regionCode": "R5",
+    "ineCountyCode": 303,
+    "queryMode": 1,
+    "coverageName": "NOGALES"
+  }, {
+    "countyCode": "OLMU",
+    "countyName": "OLMUE",
+    "regionCode": "R5",
+    "ineCountyCode": 306,
+    "queryMode": 1,
+    "coverageName": "OLMUE"
+  }, {
+    "countyCode": "PUCH",
+    "countyName": "PUCHUNCAVI",
+    "regionCode": "R5",
+    "ineCountyCode": 313,
+    "queryMode": 1,
+    "coverageName": "PUCHUNCAVI"
+  }, {
+    "countyCode": "QLTA",
+    "countyName": "QUILLOTA",
+    "regionCode": "R5",
+    "ineCountyCode": 300,
+    "queryMode": 1,
+    "coverageName": "QUILLOTA"
+  }, {
+    "countyCode": "QUIL",
+    "countyName": "QUILPUE",
+    "regionCode": "R5",
+    "ineCountyCode": 314,
+    "queryMode": 1,
+    "coverageName": "QUILPUE"
+  }, {
+    "countyCode": "QUIN",
+    "countyName": "QUINTERO",
+    "regionCode": "R5",
+    "ineCountyCode": 312,
+    "queryMode": 1,
+    "coverageName": "QUINTERO"
+  }, {
+    "countyCode": "SANT",
+    "countyName": "SAN ANTONIO",
+    "regionCode": "R5",
+    "ineCountyCode": 320,
+    "queryMode": 1,
+    "coverageName": "SAN ANTONIO"
+  }, {
+    "countyCode": "SFEL",
+    "countyName": "SAN FELIPE",
+    "regionCode": "R5",
+    "ineCountyCode": 290,
+    "queryMode": 1,
+    "coverageName": "SAN FELIPE"
+  }, {
+    "countyCode": "SMAR",
+    "countyName": "SANTA MARIA",
+    "regionCode": "R5",
+    "ineCountyCode": 292,
+    "queryMode": 1,
+    "coverageName": "SANTA MARIA"
+  }, {
+    "countyCode": "SDGO",
+    "countyName": "SANTO DOMINGO",
+    "regionCode": "R5",
+    "ineCountyCode": 325,
+    "queryMode": 1,
+    "coverageName": "SANTO DOMINGO"
+  }, {
+    "countyCode": "VALP",
+    "countyName": "VALPARAISO",
+    "regionCode": "R5",
+    "ineCountyCode": 310,
+    "queryMode": 1,
+    "coverageName": "VALPARAISO"
+  }, {
+    "countyCode": "VALE",
+    "countyName": "VILLA ALEMANA",
+    "regionCode": "R5",
+    "ineCountyCode": 315,
+    "queryMode": 1,
+    "coverageName": "VILLA ALEMANA"
+  }, {
+    "countyCode": "VINA",
+    "countyName": "VINA DEL MAR",
+    "regionCode": "R5",
+    "ineCountyCode": 311,
+    "queryMode": 1,
+    "coverageName": "VINA DEL MAR"
+  }],
+  "statusCode": 0,
+  "statusDescription": "Extraccion exitosa",
+  "errors": null
+}
